@@ -16,7 +16,7 @@ tags: ["Jekyll", "markdown", "i18n"]
 >
 > 网站已经迁移到如下地址，以便支持多语言（i18n）：
 >
-> <a href="https://scotv.github.io/blog/">https://scotv.github.io/blog/zh</a>
+> <a href="https://scotv.github.io/blog/zh">https://scotv.github.io/blog/zh</a>
 
 
 <!--more-->
