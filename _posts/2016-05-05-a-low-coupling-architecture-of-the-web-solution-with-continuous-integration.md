@@ -234,7 +234,7 @@ tags: ["CI", "project"]
 
 ## 独立节点的完备测试
 
-[之前的文章](http://scotv.github.io/help/2016/04/05/fully-migrating-from-bitbucket-cloud-issue-system-to-jira-server#continuous-integration)中也提到：
+[之前的文章](http://scozv.github.io/help/2016/04/05/fully-migrating-from-bitbucket-cloud-issue-system-to-jira-server#continuous-integration)中也提到：
 
 * 需要完成单元测试
 * 需要`mock`，从而完成一系列的BDD测试
@@ -243,7 +243,7 @@ tags: ["CI", "project"]
 
 ## 持续的代码提交流程
 
-[之前的文章](http://scotv.github.io/help/2016/04/05/fully-migrating-from-bitbucket-cloud-issue-system-to-jira-server#continuous-integration)中也提到：
+[之前的文章](http://scozv.github.io/help/2016/04/05/fully-migrating-from-bitbucket-cloud-issue-system-to-jira-server#continuous-integration)中也提到：
 
 * commit 和 issue需要相互关联，以便追溯
 * 关闭的issue，不再接受commit

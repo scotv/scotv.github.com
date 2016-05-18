@@ -9,10 +9,10 @@ group: !navigation
 
 ```
 \documentclass[a4paper]
-\newcommand{\a}{https://github.com/scotv/algo-js}
+\newcommand{\a}{https://github.com/scozv/algo-js}
 
 \begin{document}
-\author{@scotv}
+\author{@scozv}
 \date{May, 07, 2016}
 \maketitle
 
